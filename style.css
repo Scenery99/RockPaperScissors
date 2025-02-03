@@ -51,7 +51,6 @@ body {
 } 
 
 .reset-button {
-    display: none;
     background-color: rgb(6, 126, 86);
     color: white;
     border: none;
